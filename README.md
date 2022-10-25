@@ -21,3 +21,4 @@
   - If there is issue during the making environment run following command
   
      ```Set-ExecutionPolicy RemoteSigned```
+     Run above command of make virtual env in Python 
