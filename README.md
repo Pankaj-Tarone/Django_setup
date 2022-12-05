@@ -16,10 +16,15 @@
     
   - make environment using following command 
   
-    ``` mkvirtualenv <env_nae>```
+    ``` mkvirtualenv <env_name>```
+    
+    ``` python3 -m venv <env_name>```
   
   - If there is issue during the making environment run following command
   
      ```Set-ExecutionPolicy RemoteSigned```
      
      Run above command of make virtual env in Python 
+  - Activate the environment 
+  
+    ```.\<env_name>\Scripts\activate```
