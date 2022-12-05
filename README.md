@@ -43,4 +43,4 @@
     
   -  Create Django app
     
-     ```python manage.py startap myapp```
+     ```python manage.py startapp myapp```
