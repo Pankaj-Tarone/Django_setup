@@ -30,3 +30,17 @@
   - Activate the environment 
   
     ```.\<env_name>\Scripts\activate```
+    
+  - Install Django
+  
+    ``` pip install Django ```
+    
+  - Start Prject
+   
+    ``` django-admin startproject <project-name> ```
+    
+    ``` cd <project-name>```
+    
+  -  Create Django app
+    
+     ```python manage.py startap myapp```
