@@ -14,9 +14,11 @@
   
     ``` pip install virtulenvwrapper-win ```
     
-  - make environment using following command 
+  - make environment using one of the following command 
   
-    ``` mkvirtualenv <env_name>```
+    ``` virtualenv <env_name> ```
+  
+    ``` mkvirtualenv <env_name> ```
     
     ``` python3 -m venv <env_name>```
   
